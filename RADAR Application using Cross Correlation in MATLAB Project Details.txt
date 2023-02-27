@@ -1,0 +1,12 @@
+Speed of RADAR Signal: 300,000 km/s (Speed of Light)
+
+Height at which Fighter Jet is Flying: 50,000 ft = 15.24 km  (Average Height)
+Height at which Fighter Jet is Flying: 90,000 ft = 27.432 km (Maximum Height)
+
+Time Taken: Distance / Speed
+
+Time Taken for Average Height: 5.08e-5 s = 50.8e-6 s = 50.8 us
+Time Taken for Maximum Height: 9.144e-5 = 9.144e-6 = 9.144 us
+
+Time Taken for Average Height (for two way): 1.016e-4 s = 101.6e-6 s = 101.6 us
+Time Taken for Maximum Height (for two way): 1.8288e-5 s = 18.288e-6 s = 18.288 us
